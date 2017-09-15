@@ -7,6 +7,8 @@
 
 Slim is a PHP micro-framework that helps you quickly write simple yet powerful web applications and APIs.
 
+* [SlimPHP中文网](http://www.slimphp.net/)
+
 ## Installation
 
 It's recommended that you use [Composer](https://getcomposer.org/) to install Slim.
